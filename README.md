@@ -16,11 +16,17 @@
 
 ### 💻 Top Skills
 <p align="center">
-  <!-- UI/UX -->
-  <img src="https://img.shields.io/badge/UI/UX%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
+  <!-- UI/UX Designing (Figma) -->
+  <img src="https://img.shields.io/badge/UI/UX%20Designing%20(Figma)-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designing (Figma)">
   
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Front--End%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend Dev">
+  <!-- Frontend (HTML) -->
+  <img src="https://img.shields.io/badge/Frontend-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend HTML">
+  
+  <!-- Frontend (CSS) -->
+  <img src="https://img.shields.io/badge/Frontend-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Frontend CSS">
+  
+  <!-- Frontend (ReactJS) -->
+  <img src="https://img.shields.io/badge/Frontend-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend ReactJS">
   
   <!-- Backend (ExpressJS) -->
   <img src="https://img.shields.io/badge/Backend-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Backend Express.js">
@@ -28,7 +34,7 @@
   <!-- Backend (PHP) -->
   <img src="https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Backend PHP">
   
-  <!-- ORM -->
+  <!-- ORM (PrismaORM) -->
   <img src="https://img.shields.io/badge/ORM-PrismaORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM">
   
   <!-- MySQL -->
@@ -37,6 +43,7 @@
   <!-- PostgreSQL -->
   <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
+
 
 ---
 
