@@ -38,6 +38,7 @@
 <p align="center">
   <a href="https://open.spotify.com/user/31tohsnh4t6zmzhv24r7uqcltpmu?si=acf8b28b144a4335&nd=1&dlsi=8397e5eae3024f21"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.instagram.com/mr.fad_hill/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/shifelonie"><img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ---
