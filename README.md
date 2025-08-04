@@ -8,8 +8,9 @@
   <img src="https://raw.githubusercontent.com/shifelonie/shifelonie/main/aizen.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">Greetings, Traveler👋. I'm Mr. Fadhil</h1>
-<h3 align="center">Undergoing Software Dev Student at College</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Greetings%2C+Traveler+%F0%9F%91%8B;I'm+Mr.+Fadhil;Undergoing+Software+Dev+Student+at+College" alt="Typing Animation" />
+</p>
 
 ---
 
