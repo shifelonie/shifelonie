@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Frontend-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend HTML">
   
   <!-- Frontend (CSS) -->
-  <img src="https://img.shields.io/badge/Frontend-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Frontend CSS">
+  <img src="https://img.shields.io/badge/Frontend-CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="Frontend CSS">
   
   <!-- Frontend (ReactJS) -->
   <img src="https://img.shields.io/badge/Frontend-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend ReactJS">
