@@ -1,14 +1,14 @@
 <!-- Banner -->
 <p align="center">
-  <img src="blue_sky.jpg" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/shifelonie/shifelonie/main/blue_sky.jpg" alt="Banner" width="100%">
 </p>
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="aizen.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/shifelonie/shifelonie/main/aizen.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">Hi there 👋, I'm Mr. Fadhil</h1>
+<h1 align="center">Greetings, Traveler👋, I'm Mr. Fadhil</h1>
 <h3 align="center">Undergoing Software Developer Student at College</h3>
 
 ---
@@ -52,6 +52,6 @@
 - Love to watch good movies and animes (not straight a weeb though...)
 - Cook & Eat  
 - Gaming  
-- Sleeping (i <3 my bed sm😋)
+- Sleeping (i <3 my bed sm😋)  
 
 ---
