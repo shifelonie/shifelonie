@@ -22,8 +22,11 @@
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/Front--End%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend Dev">
   
-  <!-- Backend -->
+  <!-- Backend (ExpressJS) -->
   <img src="https://img.shields.io/badge/Backend-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Backend Express.js">
+
+  <!-- Backend (PHP) -->
+  <img src="https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Backend PHP">
   
   <!-- MySQL -->
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
