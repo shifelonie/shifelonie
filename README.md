@@ -28,6 +28,9 @@
   <!-- Backend (PHP) -->
   <img src="https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Backend PHP">
   
+  <!-- ORM -->
+  <img src="https://img.shields.io/badge/ORM-PrismaORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM">
+  
   <!-- MySQL -->
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   
