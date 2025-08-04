@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Greetings, Traveler👋, I'm Mr. Fadhil</h1>
-<h3 align="center">Undergoing Software Developer Student at College</h3>
+<h3 align="center">Undergoing Software Dev Student at College</h3>
 
 ---
 
