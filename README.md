@@ -17,7 +17,7 @@
 ### 💻 Top Skills
 <p align="center">
   <!-- UI/UX Designing (Figma) -->
-  <img src="https://img.shields.io/badge/UI/UX%20Designing%20(Figma)-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designing (Figma)">
+  <img src="https://img.shields.io/badge/UI/UX%20Designing%20-FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designing FIGMA">
   
   <!-- Frontend (HTML) -->
   <img src="https://img.shields.io/badge/Frontend-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend HTML">
