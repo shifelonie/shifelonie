@@ -32,7 +32,7 @@
 ### 🎧 Now Playing on Spotify
 <p align="center">
   <a href="https://open.spotify.com/user/31tohsnh4t6zmzhv24r7uqcltpmu?si=acf8b28b144a4335&nd=1&dlsi=8397e5eae3024f21">
-    <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tohsnh4t6zmzhv24r7uqcltpmu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tohsnh4t6zmzhv24r7uqcltpmu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)" />
   </a>
 </p>
 
