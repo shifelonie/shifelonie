@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="100" viewBox="0 0 600 100" style="background: transparent;">
+  <defs>
+    <style>
+      .text { font: 700 32px system-ui; fill: #ffffff; }
+      .cursor {
+        fill: #ffffff;
+        animation: blink 1s steps(2) infinite;
+      }
+      @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+  <text x="0" y="55" class="text">
+    <tspan id="typing"></tspan>
+  </text>
+  <rect x="0" y="30" width="6" height="40" class="cursor">
+    <animate attributeName="x"
+      values="0;0;0;0;0"
+      dur="6s"
+      fill="freeze" />
+  </rect>
+  <script type="application/ecmascript"><![CDATA[
+    const full = "Greetings, Traveler. I'm Mr. Fadhil";
+    const svgNS = "http://www.w3.org/2000/svg";
+    let i = 0;
+    const interval = 100;
+    const tspan = document.getElementById("typing");
+    const cursor = document.querySelector("rect.cursor");
+    function step() {
+      if (i <= full.length) {
+        tspan.textContent = full.slice(0, i);
+        const bbox = tspan.getBBox();
+        cursor.setAttribute("x", bbox.x + bbox.width + 4);
+        i++;
+        setTimeout(step, interval);
+      }
+    }
+    step();
+  ]]></script>
+</svg>
