@@ -9,9 +9,6 @@
 </p>
 
 <h1 align="center">Greetings, Traveler👋. I'm Mr. Fadhil</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shifelonie/shifelonie/main/typing.svg" alt="Typing Header" />
-</p>
 <h3 align="center">Undergoing Software Dev Student at College</h3>
 
 ---
