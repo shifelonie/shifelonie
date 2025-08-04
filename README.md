@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Greetings, Traveler👋. I'm Mr. Fadhil</h1>
-<h2 align="center">AKA known as (shifelonie, dvinetrazy, cheesecake, yomifreeze, etc.)</h2>
+<h2 align="center">AKA: shifelonie, dvinetrazy, cheesecake, yomifreeze, fadhil ganzz, martabak_rebus, etc.</h2>
 <h3 align="center">Undergoing Software Dev Student at College</h3>
 
 ---
