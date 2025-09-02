@@ -10,7 +10,7 @@
 
 <h1 align="center">Greetings, Traveler👋. I'm Fadhil</h1>
 <h2 align="center">AKA: shifelonie, dvinetrazy, cheesecake, yomifreeze, fadhil ganzz, martabak_rebus, etc.</h2>
-<h3 align="center">Undergoing Software Dev Student at College, 18 Years Old.</h3>
+<h3 align="center">Undergraduate Informatics Engineering Student at College, 18 Years Old.</h3>
 
 ---
 
@@ -20,10 +20,10 @@
   <img src="https://img.shields.io/badge/UI/UX%20Designing%20-FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designing FIGMA">
   
   <!-- Frontend (HTML) -->
-  <img src="https://img.shields.io/badge/Frontend-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend HTML">
+  <img src="https://img.shields.io/badge/Markup-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend HTML">
   
   <!-- Frontend (CSS) -->
-  <img src="https://img.shields.io/badge/Frontend-CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="Frontend CSS">
+  <img src="https://img.shields.io/badge/Styling-CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="Frontend CSS">
   
   <!-- Frontend (ReactJS) -->
   <img src="https://img.shields.io/badge/Frontend-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend ReactJS">
