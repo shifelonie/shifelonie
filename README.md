@@ -9,8 +9,7 @@
 </p>
 
 <h1 align="center">Greetings, Traveler👋. I'm Fadhil</h1>
-<h2 align="center">AKA: shifelonie, cheesecake, dvinetrazy, yomifreeze, fadhil ganzz, martabak_rebus, etc.</h2>
-<h3 align="center">Undergraduate Informatics Engineering Student at College, 18 Years Old.</h3>
+<h3 align="center">Undergraduate Informatics Engineering Student, 19 yo.</h3>
 
 ---
 
