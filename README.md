@@ -82,7 +82,7 @@
 ### 🎯 Fun Facts & Hobbies
 <p align="center">
   Certified Melophile 🎵<br>
-  Introvert & shy guy 🙈<br>
+  INFP 🙈<br>
   Love to watch good movies and animes (not straight a weeb though...) 🎬<br>
   Cook & Eat 🍳<br>
   Gaming 🎮<br>
